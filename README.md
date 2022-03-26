@@ -6,4 +6,4 @@
 
 3.The code can be run on Jupyter Notebook, but due to version issues, there is no guarantee that each step will be successfully completed.
 
-4.But you can still click the button "open in colab"  to see the process details and results saved while the project was running.
+4.But you can still click the orange button "open in colab" before the contents of the "An_Microchip_Object_Detection_System_Based_On_Tensorflow2_EfficientDet_model.ipynb" file to see the process details and results saved while the project was running.
