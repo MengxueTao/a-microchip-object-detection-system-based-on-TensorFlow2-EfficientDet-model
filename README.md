@@ -1,4 +1,4 @@
-## an-microchip-object-detection-system-based-on-TensorFlow2-EfficientDet-model
+## a-microchip-object-detection-system-based-on-TensorFlow2-EfficientDet-model
 
 1.The main code for the project is stored in the "An_Microchip_Object_Detection_System_Based_On_Tensorflow2_EfficientDet_model.ipynb" file.
 
